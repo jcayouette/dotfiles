@@ -13,7 +13,7 @@ python pip3 install pywall
 * lxappearance Setting theme options
 * thunar GUI File Manager
 * ranger CLI File manager
-* weechat IRC client
+* weechat CLI IRC client
 * arandr for creating an I3 screen config easily
 
 
