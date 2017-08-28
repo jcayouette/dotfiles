@@ -1,0 +1,4 @@
+URxvt*scrollBar: false
+URxvt.font: xft:inconsolata :pixelsize=18
+urxvt*transparent: false
+urxvt*shading: 30
