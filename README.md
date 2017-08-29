@@ -1,6 +1,6 @@
 # dotfiles
 
-![Example Image](desktop-example.png)
+![Example Image](example.png)
 ## Requirements:
 * i3-gaps: https://software.opensuse.org/package/i3-gaps?search_term=i3-gaps (42.2 version is fine for leap 42.3)
 
